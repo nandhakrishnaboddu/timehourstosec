@@ -1,0 +1,44 @@
+.bg-container{
+    background-image:url("images/time-converter-bg.png");
+    height:100vh;
+    background-size:cover;
+    padding:35px 7px  20px 28px;
+}
+.heading{
+    color:white;
+    font-family:"roboto";
+    font-weight:bold;
+    letter-spacing:1.5px;
+}
+.subheading{
+    color:#ffffff;
+    font-family:"open Sans";
+    font-weight:500;
+}
+.inputele{
+    border-radius:10px;
+    border-width:0px;
+}
+.btnele{
+    border-radius:8px;
+    height:40px;
+    width:170px;
+    color:#000000;
+    background-color:#f5f7fa;
+    border-width:0;
+}
+.emsg{
+    color:#f5f7fa;
+    font-family:"open Sans";
+    font-size:20px;
+    margin-top:20px;
+}
+.tinsec{
+    color:#f5f7fa;
+    font-family:"open Sans";
+    font-size:22px;
+    border-color:#f5f7fa;
+    border-width:5px;
+    border-radius:5px;
+}
+
